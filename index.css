@@ -140,7 +140,7 @@ body {
 
 @media (max-width: 426px) {
   .containerr {
-    max-width: 425px;
+    /* max-width: 425px; */
     margin: 0 16px;
   }
   .h2 {
